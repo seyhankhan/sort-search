@@ -22,9 +22,10 @@ Sort &amp; search data easily with a Flask built website
 ### Languages
 - [Python 3](https://www.python.org/downloads/release/python-372/)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
+- [Jinja](http://jinja.pocoo.org/)
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [Javascript](https://www.javascript.com/)
-- [Jinja](http://jinja.pocoo.org/)
+
 
 ### Constants
 - `dict ALLOWED_EXTENSIONS` = Accepted file types & what seperates values in the file
