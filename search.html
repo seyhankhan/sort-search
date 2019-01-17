@@ -1,0 +1,29 @@
+{% extends "input layout.html" %}
+
+{% block action %} "/search" {% endblock %}
+
+{% block settings %}
+    <!-- Input value to search for -->
+    <div class="form-group row col-2">
+        <input class="form-control form-control-sm" name="wanted" placeholder="Value to Search for"/>
+    </div>
+
+    <hr />
+    
+    <!-- SUBMIT BUTTONS of different search algorithms -->
+    <label class="checkbox-inline">
+        <button class="btn btn-primary" type="submit" name="search method" value="Linear">
+            Linear Search
+        </button>
+    </label>
+    <label class="checkbox-inline">
+        <button class="btn btn-primary" type="submit" name="search method" value="Binary">
+            Binary Search
+        </button>
+    </label>
+    <label class="checkbox-inline">
+        <button class="btn btn-primary" type="submit" name="search method" value="Binary Search Tree">
+            Binary Search Tree
+        </button>
+    </label>
+{% endblock %}
