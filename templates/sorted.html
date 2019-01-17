@@ -1,0 +1,35 @@
+{% extends "output layout.html" %}
+
+{% block table %}
+    <thead>
+        <tr>
+            <th>Sort Method</th>
+            <th>Order</th>
+            <th>List Length</th>
+            <th>Best</th>
+            <th>Steps</th>
+            <th>Worst</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{ sortMethod }}</td>
+            <td>{{ order }}</td>
+            <td>{{ listLength }}</td>
+            <td>Ω({{ best_steps }})</td>
+            <td>{{ steps }}</td>
+            <td>O({{ worst_steps }})</td>
+            <td>{{ time }} secs</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Ω({{ best }})</td>
+            <td></td>
+            <td>O({{ worst }})</td>
+            <td></td>
+        </tr>
+    </tbody>
+{% endblock %}
