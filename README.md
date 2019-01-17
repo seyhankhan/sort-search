@@ -10,6 +10,9 @@ Sort &amp; search data easily with a Flask built website
 * Windows CMD  ```$ set FLASK_APP=application``` 
 3. **Run the development server**
 * ```$ flask run```
+4. **Visit the URL**
+* http://127.0.0.1:5000
+
 
 ### Libraries
 - [flask](http://flask.pocoo.org/)
