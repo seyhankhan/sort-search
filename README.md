@@ -11,10 +11,6 @@ Sort &amp; search data easily with a Flask built website
 3. Run the development server
 - ```$ flask run```
 
-
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for usage.
-
 ### Libraries
 - [flask](http://flask.pocoo.org/)
   * ```$ pip install flask```
