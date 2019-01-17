@@ -3,13 +3,13 @@
 Sort &amp; search data easily with a Flask built website
 
 ### Usage:
-1. Install flask
-- ```$ pip install flask```
-2. Import application
-- bash  ```$ export FLASK_APP=application``` 
-- Windows CMD  ```$ set FLASK_APP=application``` 
-3. Run the development server
-- ```$ flask run```
+1. **Install flask**
+* ```$ pip install flask```
+2. **Import application**
+* bash  ```$ export FLASK_APP=application``` 
+* Windows CMD  ```$ set FLASK_APP=application``` 
+3. **Run the development server**
+* ```$ flask run```
 
 ### Libraries
 - [flask](http://flask.pocoo.org/)
