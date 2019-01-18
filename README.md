@@ -5,12 +5,9 @@ Sort &amp; search data easily with a Flask built website
 ### Usage:
 1. **Install flask**
 * ```$ pip install flask```
-2. **Import application**
-* bash  ```$ export FLASK_APP=application``` 
-* Windows CMD  ```$ set FLASK_APP=application``` 
-3. **Run the development server**
-* ```$ flask run```
-4. **Visit the URL**
+2. **Run the development server**
+* ```$ FLASK_APP=application.py flask run```
+3. **Visit the URL**
 * http://127.0.0.1:5000
 
 
@@ -20,7 +17,7 @@ Sort &amp; search data easily with a Flask built website
 - [werkzeug](http://werkzeug.pocoo.org/docs/0.14/utils/)
 
 ### Languages
-- [Python 3](https://www.python.org/downloads/release/python-372/)
+- [Python 3.7](https://www.python.org/downloads/release/python-372/)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [Jinja](http://jinja.pocoo.org/)
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
