@@ -3,12 +3,9 @@
 Sort &amp; search data easily with a Flask built website
 
 ### Usage:
-1. **Install flask**
-* ```$ pip install flask```
-2. **Run the development server**
-* ```$ FLASK_APP=application.py flask run```
-3. **Visit the URL**
-* http://127.0.0.1:5000
+1. **Install flask** - ```$ pip install flask```
+2. **Run the development server** - ```$ FLASK_APP=application.py flask run```
+3. **Visit the URL** - http://127.0.0.1:5000
 
 
 ### Libraries
