@@ -9,8 +9,7 @@ Sort &amp; search data easily with a Flask built website
 
 
 ### Libraries
-- [flask](http://flask.pocoo.org/)
-  * ```$ pip install flask```
+- [flask](http://flask.pocoo.org/) - ```$ pip install flask```
 - [werkzeug](http://werkzeug.pocoo.org/docs/0.14/utils/)
 
 ### Languages
