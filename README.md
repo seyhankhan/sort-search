@@ -1,6 +1,6 @@
 # Sort &amp; Search
 
-Sort &amp; search data easily with a Flask built website
+Execute &amp; present the complexity of different sorting &amp; searching algorithms with a Flask built website
 
 ### Usage
 1. **Install flask** - ```$ pip install flask```
