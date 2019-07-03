@@ -4,7 +4,7 @@ Execute &amp; present the complexity of different sorting &amp; searching algori
 
 ### Usage
 1. **Install flask** - `$ pip3 install flask`
-2. **Run the server** -
+2. **Run the server** - `$ python3 application.py`
 ```
 $ python3 application.py
  * Serving Flask app "application" (lazy loading)
