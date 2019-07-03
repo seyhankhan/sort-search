@@ -22,7 +22,6 @@ $ python3 application.py
 
 ### Libraries
 - [flask](http://flask.pocoo.org/) - ```$ pip install flask```
-- [werkzeug](http://werkzeug.pocoo.org/docs/0.14/utils/)
 
 ### Languages
 - [Python 3.7](https://www.python.org/downloads/release/python-372/)
