@@ -24,7 +24,7 @@ $ python3 application.py
 - [flask](http://flask.pocoo.org/)
 
 ### Languages
-- [Python 3.7](https://www.python.org/downloads/release/python-372/)
+- [Python 3](https://www.python.org/downloads/release)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [Jinja](http://jinja.pocoo.org/)
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
