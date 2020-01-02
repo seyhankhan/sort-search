@@ -3,6 +3,7 @@
 Execute &amp; present the complexity of different sorting &amp; searching algorithms with a Flask built website
 
 ### Usage
+URL: https://sort-search.herokuapp.com/
 1. **Install flask** - `$ pip3 install flask`
 2. **Run the server** - `$ python3 application.py`
 ```
