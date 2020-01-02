@@ -4,6 +4,8 @@ Execute &amp; present the complexity of different sorting &amp; searching algori
 
 ### Usage
 URL: https://sort-search.herokuapp.com/
+
+#### Run Locally
 1. **Install flask** - `$ pip3 install flask`
 2. **Run the server** - `$ python3 application.py`
 ```
